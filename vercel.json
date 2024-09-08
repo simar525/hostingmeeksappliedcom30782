@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.secureserver.net/?plid=595564/$1"
+ }
+  ]
+}
